@@ -94,4 +94,4 @@ gem 'devise_invitable'
 
 gem 'cloudinary'
 
-ruby "2.3.0"
+ruby "2.2.3"
