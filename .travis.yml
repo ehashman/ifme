@@ -1,7 +1,7 @@
 sudo: required
 dist: trusty
 language: ruby
-version:
+rvm:
   - 2.3
 services:
   - postgresql
